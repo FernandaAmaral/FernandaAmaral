@@ -4,8 +4,8 @@
 
 📊 &nbsp; Data scientist passionate about innovation and entrepreneurship.\
 🎓 &nbsp; Electrical Engineer and Master's student in computer science at the University of Brasilia\
-🤖 &nbsp; Co-founder of the [CLARA](https://clara.laparoscopic.com.br) robot, winner startup of the Johnson & Johnson Latin America Innovation Challenge (2020).
-📚 &nbsp; Digital marketing enthusiast
+🤖 &nbsp; Co-founder of the [CLARA](https://clara.laparoscopic.com.br) robot, winner startup of the Johnson & Johnson Latin America Innovation Challenge (2020).\
+📚 &nbsp; Digital marketing enthusiast\
 
 ## 🛠 &nbsp;Tech Stack
 

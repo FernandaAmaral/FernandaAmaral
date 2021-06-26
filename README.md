@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 &nbsp;About Me
 
-📊 &nbsp; I am a data scientist passionate about innovation and entrepreneurship.\
+📊 &nbsp; Data scientist passionate about innovation and entrepreneurship.\
 🎓 &nbsp; Electrical Engineer and Master's student in computer science at the University of Brasilia\
 🤖 &nbsp; Co-founder of the [CLARA](https://clara.laparoscopic.com.br) robot, winner startup of the Johnson & Johnson Latin America Innovation Challenge (2020).
 
@@ -15,8 +15,8 @@
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn)&nbsp;
 ![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
 \
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![ReactNative](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;

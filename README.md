@@ -2,10 +2,10 @@
 
 ## 👩🏻‍💻 &nbsp;About Me
 
-📊 &nbsp; Data scientist passionate about innovation and entrepreneurship.\
+📊 &nbsp; Data scientist at [Via](https://www.via.com.br)\
 🎓 &nbsp; Electrical Engineer and [Master's](http://ppgi.unb.br) student in computer science at the University of Brasilia (data science focused program)\
 🤖 &nbsp; Co-founder of the [CLARA](https://clara.laparoscopic.com.br) robot, winner startup of the Johnson & Johnson Latin America Innovation Challenge (2020).\
-📚 &nbsp; Digital marketing enthusiast
+📚 &nbsp; Digital marketing enthusiast. Passionate about innovation and entrepreneurship.
 
 ## 🛠 &nbsp;Tech Stack
 

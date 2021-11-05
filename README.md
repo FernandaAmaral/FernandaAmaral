@@ -10,6 +10,8 @@
 ## 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=ApacheSpark)&nbsp;
+![Databricks](https://img.shields.io/badge/-Databricks-05122A?style=flat&logo=Databricks)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;

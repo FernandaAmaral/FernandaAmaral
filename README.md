@@ -19,6 +19,7 @@
 ![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
+![ORtools](https://img.shields.io/badge/-ortoools-05122A?style=flat&logo=ortools&logoColor=276DC3)
 
 #### Development
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;

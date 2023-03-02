@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 &nbsp;About Me
 
-📊 &nbsp; Data scientist at [Signifyd]([https://www.via.com.br](https://www.signifyd.com))\
+📊 &nbsp; Data scientist at [Signifyd](https://www.signifyd.com)\
 🎓 &nbsp; Electrical Engineer and [Master's](http://ppgi.unb.br) student in computer science at the University of Brasilia (data science focused program)\
 🤖 &nbsp; Co-founder of the CLARA robot, winner startup of the Johnson & Johnson Latin America Innovation Challenge (2020).\
 📚 &nbsp; Main interests: Concept drift detection, fraud prevention, data streams
